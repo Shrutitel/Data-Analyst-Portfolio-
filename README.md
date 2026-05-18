@@ -40,6 +40,11 @@ Created interactive Tableau visualizations for trend analysis and business repor
 
 ---
 
+# Resume 
+[![Resume](https://github.com/Shrutitel/Data-Analyst-Portfolio-/blob/main/Tel_Shruthi_Resume-1%20(1).pdf)
+
+---
+
 # Certifications
 - PL-300 Power BI Certification
 - Microsoft Certified Azure (AZ-900)
@@ -49,4 +54,5 @@ Created interactive Tableau visualizations for trend analysis and business repor
 
 # Contact
 LinkedIn: www.linkedin.com/in/t-shruthi-b8a401250 
-GitHub: (https://github.com/Shrutitel/Data-Analyst-Portfolio-/new/main?filename=README.md)
+Email : shruthitel2017@gmail.com 
+GitHub: (https://github.com/Shrutitel/Data-Analyst-Portfolio-/edit/main/README.md)
