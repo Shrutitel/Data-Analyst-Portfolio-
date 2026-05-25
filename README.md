@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# T Shruthi - Data Analyst Portfolio
 
 ## About Me
 Data Analyst with experience in SQL, Power BI, Python, Excel, and Tableau. Skilled in dashboard development, reporting automation, and business insights generation.
